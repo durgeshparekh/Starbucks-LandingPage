@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:starbucks_landing_page/constants.dart';
-
 import '../../components.dart';
 
 class DesktopNavbar extends StatelessWidget {

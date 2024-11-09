@@ -15,10 +15,10 @@ class HomeScreen extends StatelessWidget {
         height: double.infinity,
         width: double.infinity,
         color: kBackgroundColor,
-        child: SafeArea(
+        child: const SafeArea(
           child: Column(
             children: [
-              const CustomNavbar(),
+              CustomNavbar(),
               Expanded(child: HeroContent()),
             ],
           ),

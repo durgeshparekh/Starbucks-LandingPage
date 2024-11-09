@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:starbucks_landing_page/constants.dart';
-
 import 'package:starbucks_landing_page/screens/home_screen/components/hero_image.dart';
 import 'package:starbucks_landing_page/screens/home_screen/components/hero_text.dart';
-import 'package:starbucks_landing_page/screens/home_screen/components/serving_item.dart';
 import 'package:starbucks_landing_page/screens/home_screen/components/serving_items_list.dart';
 
 class MobileHero extends StatelessWidget {

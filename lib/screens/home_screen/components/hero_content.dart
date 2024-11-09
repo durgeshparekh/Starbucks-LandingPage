@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:starbucks_landing_page/components/app_bar/components/mobile_appbar.dart';
-import 'package:starbucks_landing_page/constants.dart';
 import 'package:starbucks_landing_page/screens/home_screen/components/desktop_hero.dart';
 import 'package:starbucks_landing_page/screens/home_screen/components/mobile_hero.dart';
 import 'package:starbucks_landing_page/screens/home_screen/components/tablet_hero.dart';
